@@ -1,3 +1,6 @@
+
+![image](https://user-images.githubusercontent.com/114106946/232570241-8e66e0ef-d2d0-4bf3-8d45-9fe45912d3b6.png)
+
 # Challenge-ONE
 Meus avanços na resolução do primeiro Challenge do projeto ONE (Oracle + Alura)
 
