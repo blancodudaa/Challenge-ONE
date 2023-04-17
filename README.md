@@ -9,12 +9,15 @@ Neste repositório você pode acompanhar meus avanços no primeiro challenge em 
 Para a realização deste projeto utilizamos:
 
 ENGAJAR (TRELLO E DISCORD)
+
 Através de cards recebidos pelo Trello, recebendo diferentes pedidos para aplicar seu conhecimento, alguns bem detalhados, outros nem tanto. 
 
 INVESTIGAR (CURSOS E FORMAÇÕES)
+
 Formas de resolução e de melhor aplicação em código.
 
 AGIR (CODIFICAR GITHUB E PUBLICAR LINKEDIN)
+
 Escrever o código e publicar divulgando o projeto e enriquecendo o portfólio.
 
 ![image](https://user-images.githubusercontent.com/114106946/232570850-e343f658-91ef-4ab2-b2a3-6a6870391e4e.png)
